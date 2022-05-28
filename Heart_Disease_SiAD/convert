@@ -1,0 +1,2 @@
+jupyter nbconvert --execute --to html notebook.ipynb
+jupyter nbconvert --execute --to pdf notebook.ipynb
