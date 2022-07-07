@@ -1,2 +1,2 @@
-jupyter nbconvert --execute --to html notebook.ipynb
-jupyter nbconvert --execute --to pdf notebook.ipynb
+jupyter nbconvert --execute --to html heart_disease.ipynb
+jupyter nbconvert --execute --to pdf heart_disease.ipynb
