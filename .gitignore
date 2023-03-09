@@ -3,3 +3,8 @@
 *.pickle
 *.h5
 *.pt
+.ipynb_checkpoints
+__pycache__
+cats_and_dogs
+train
+.*
