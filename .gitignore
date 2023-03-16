@@ -8,3 +8,5 @@ __pycache__
 cats_and_dogs
 train
 .*
+aclImdb
+glove6B
