@@ -10,3 +10,5 @@ train
 .*
 aclImdb
 glove6B
+my_log_dir
+*.png
